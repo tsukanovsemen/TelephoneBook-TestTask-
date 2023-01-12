@@ -1,0 +1,10 @@
+debug/deleteform.o
+debug/inputform.o
+debug/main.o
+debug/mainwindow.o
+debug/person.o
+debug/updateform.o
+debug/moc_deleteform.o
+debug/moc_inputform.o
+debug/moc_mainwindow.o
+debug/moc_updateform.o

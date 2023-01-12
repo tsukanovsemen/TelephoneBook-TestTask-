@@ -1,0 +1,10 @@
+release/deleteform.o
+release/inputform.o
+release/main.o
+release/mainwindow.o
+release/person.o
+release/updateform.o
+release/moc_deleteform.o
+release/moc_inputform.o
+release/moc_mainwindow.o
+release/moc_updateform.o
